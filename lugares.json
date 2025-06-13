@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "Cerro Uritorco",
+        "ubicacion": "Córdoba",
+        "imagen": "img/cerrouritorco.jpg",
+        "cupos": 10,
+        "fecha": "2025-07-20"
+    },
+    {
+        "id": 2,
+        "nombre": "Cerro Champaquí",
+        "ubicacion": "Córdoba",
+        "imagen": "img/cerrochampaqui.jpg",
+        "cupos": 8,
+        "fecha": "2025-07-21"
+    },
+    {
+        "id": 3,
+        "nombre": "Quebrada del Condorito",
+        "ubicacion": "Córdoba",
+        "imagen": "img/quebradadelcondorito.jpg",
+        "cupos": 12,
+        "fecha": "2025-08-22"
+    }
+]
